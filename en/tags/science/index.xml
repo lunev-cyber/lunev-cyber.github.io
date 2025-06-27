@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Science | Быкасов Владислав Дмитриевич</title>
+    <link>https://lunev-cyber.github.io/en/tags/science/</link>
+      <atom:link href="https://lunev-cyber.github.io/en/tags/science/index.xml" rel="self" type="application/rss+xml" />
+    <description>Science</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lunev-cyber.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Science</title>
+      <link>https://lunev-cyber.github.io/en/tags/science/</link>
+    </image>
+    
+    <item>
+      <title>Personal Website of a Researcher on Hugo Academic</title>
+      <link>https://lunev-cyber.github.io/en/project/hugo/</link>
+      <pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://lunev-cyber.github.io/en/project/hugo/</guid>
+      <description>&lt;h2 id=&#34;why-does-a-researcher-need-a-personal-website&#34;&gt;Why does a researcher need a personal website?&lt;/h2&gt;
+&lt;p&gt;In today’s academic community, a personal website has become an essential tool for professional development. It allows you to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📌 Showcase your publications, research, and projects in a clear and accessible format.&lt;/li&gt;
+&lt;li&gt;🌐 Increase visibility in the academic field and make it easier for colleagues, students, and partners to find information about you.&lt;/li&gt;
+&lt;li&gt;📝 Run a blog, share opinions on professional topics, publish teaching materials or updates on your projects.&lt;/li&gt;
+&lt;li&gt;📊 Bring together links to your profiles on Google Scholar, ORCID, ResearchGate, and other platforms.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Creating such a site is a chance to build a personal brand and highlight your individuality in academia.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;why-choose-hugo-academic&#34;&gt;Why choose Hugo Academic?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Hugo Academic&lt;/strong&gt; is a popular theme for the Hugo static site generator, designed specifically for the needs of researchers and educators. Key advantages include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🔹 &lt;strong&gt;Ease of use&lt;/strong&gt;: you can quickly deploy a site without deep programming knowledge.&lt;/li&gt;
+&lt;li&gt;🔹 &lt;strong&gt;Flexible structure&lt;/strong&gt;: easy organization of content into sections — publications, courses, projects, presentations, blog.&lt;/li&gt;
+&lt;li&gt;🔹 &lt;strong&gt;Multilingual support&lt;/strong&gt;: convenient for researchers working in an international environment.&lt;/li&gt;
+&lt;li&gt;🔹 &lt;strong&gt;Integration with external services&lt;/strong&gt;: easy to add links to academic profiles, GitHub, social networks.&lt;/li&gt;
+&lt;li&gt;🔹 &lt;strong&gt;Responsive design&lt;/strong&gt;: the site looks great on desktops, tablets, and smartphones.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In addition, Hugo Academic can automatically generate a publication list based on BibTeX, making it easier to keep your data up to date.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;what-sections-does-the-site-usually-include&#34;&gt;What sections does the site usually include?&lt;/h2&gt;
+&lt;p&gt;A researcher’s personal site on Hugo Academic might contain:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;A homepage with a brief description of professional activities and a photo.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;A publications section&lt;/strong&gt;, automatically generated from bibliographic files.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Descriptions of projects and grants&lt;/strong&gt; the researcher is involved in.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;A page with teaching materials&lt;/strong&gt; — useful for lecturers who share presentations and assignments.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;A personal blog&lt;/strong&gt; with notes on research work, book reviews, conference reports.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Contact information and links to profiles&lt;/strong&gt; on academic networks.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;All these elements are configured through simple configuration files.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;what-to-consider-when-creating-a-site&#34;&gt;What to consider when creating a site?&lt;/h2&gt;
+&lt;p&gt;When developing a personal site, it’s important to consider:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🎯 &lt;strong&gt;Purpose of the site&lt;/strong&gt; — clearly define what you want to communicate: your research, teaching materials, projects, or everything at once.&lt;/li&gt;
+&lt;li&gt;📂 &lt;strong&gt;Content structure&lt;/strong&gt; — make the site easy to navigate so visitors can quickly find what they need.&lt;/li&gt;
+&lt;li&gt;🖼 &lt;strong&gt;Design and style&lt;/strong&gt; — Hugo Academic offers a clean, academic style, but it can always be customized.&lt;/li&gt;
+&lt;li&gt;⏱ &lt;strong&gt;Up-to-date information&lt;/strong&gt; — it’s important to regularly update your publications, projects, and news.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Creating a personal website on Hugo Academic is a modern and accessible way to present yourself in the academic community. Such a site highlights professionalism, simplifies communication with colleagues and students, and helps organize your achievements. Hugo Academic is perfect for this: simple to set up, functional, and focused on the needs of researchers.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

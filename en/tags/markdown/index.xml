@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markdown | Быкасов Владислав Дмитриевич</title>
+    <link>https://lunev-cyber.github.io/en/tags/markdown/</link>
+      <atom:link href="https://lunev-cyber.github.io/en/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <description>Markdown</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lunev-cyber.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Markdown</title>
+      <link>https://lunev-cyber.github.io/en/tags/markdown/</link>
+    </image>
+    
+    <item>
+      <title>The Markdown Markup Language</title>
+      <link>https://lunev-cyber.github.io/en/publication/02/</link>
+      <pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://lunev-cyber.github.io/en/publication/02/</guid>
+      <description>&lt;h2 id=&#34;what-is-markdown&#34;&gt;What is Markdown?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Markdown&lt;/strong&gt; is a lightweight markup language designed for quickly writing text with a simple structure. Its main goal is to make the text easily readable in its raw form and convenient to convert into HTML and other formats.&lt;/p&gt;
+&lt;p&gt;Markdown is often used for:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;✏ writing documentation;&lt;/li&gt;
+&lt;li&gt;📝 creating README files;&lt;/li&gt;
+&lt;li&gt;🌐 publishing in blogs and on forums;&lt;/li&gt;
+&lt;li&gt;📄 drafting notes and study materials.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;basic-principles&#34;&gt;Basic principles&lt;/h2&gt;
+&lt;p&gt;Markdown aims for maximum readability: even in raw form, the text looks clean. Markup is added using symbols familiar from everyday typing — &lt;code&gt;#&lt;/code&gt;, &lt;code&gt;*&lt;/code&gt;, &lt;code&gt;_&lt;/code&gt;, &lt;code&gt;-&lt;/code&gt;, and others.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;markdown-capabilities&#34;&gt;Markdown capabilities&lt;/h2&gt;
+&lt;p&gt;Here are the key elements you can format with Markdown:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Headings&lt;/strong&gt; — marked with &lt;code&gt;#&lt;/code&gt;. The number of &lt;code&gt;#&lt;/code&gt; symbols indicates the heading level.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Lists&lt;/strong&gt; — created with &lt;code&gt;-&lt;/code&gt;, &lt;code&gt;*&lt;/code&gt;, or numbers followed by a period for bullet and numbered lists.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Bold and italic&lt;/strong&gt; — &lt;code&gt;**text**&lt;/code&gt; for bold, &lt;code&gt;*text*&lt;/code&gt; for italic.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Code&lt;/strong&gt; — insert code fragments with backticks (&lt;code&gt;`&lt;/code&gt;), and code blocks with triple backticks (```).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Links&lt;/strong&gt; — &lt;code&gt;[link text](URL)&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Images&lt;/strong&gt; — &lt;code&gt;![alt text](image URL)&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Blockquotes&lt;/strong&gt; — lines starting with &lt;code&gt;&amp;gt;&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Horizontal lines&lt;/strong&gt; — three or more &lt;code&gt;-&lt;/code&gt; or &lt;code&gt;*&lt;/code&gt; on a line.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;where-is-markdown-used&#34;&gt;Where is Markdown used?&lt;/h2&gt;
+&lt;p&gt;Markdown has become a standard on many platforms:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;GitHub, GitLab, and Bitbucket for README files and wikis;&lt;/li&gt;
+&lt;li&gt;content management systems (CMS);&lt;/li&gt;
+&lt;li&gt;static site generators (e.g., Hugo, Jekyll);&lt;/li&gt;
+&lt;li&gt;blogs, including academic ones;&lt;/li&gt;
+&lt;li&gt;note-taking and task platforms (e.g., Obsidian, Notion).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;advantages-of-markdown&#34;&gt;Advantages of Markdown&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;⚡ &lt;strong&gt;Simplicity&lt;/strong&gt; — you can learn it in a few minutes.&lt;/li&gt;
+&lt;li&gt;🔍 &lt;strong&gt;Readability&lt;/strong&gt; — the text is easy to understand even without rendering.&lt;/li&gt;
+&lt;li&gt;🔄 &lt;strong&gt;Flexibility&lt;/strong&gt; — it can be converted into HTML, PDF, and other formats.&lt;/li&gt;
+&lt;li&gt;🌍 &lt;strong&gt;Cross-platform support&lt;/strong&gt; — it works almost everywhere.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Markdown is an essential tool for anyone who frequently writes text in a digital environment. It simplifies the creation of neat and structured documents, and its versatility makes it a popular choice for programmers, researchers, and blog authors.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

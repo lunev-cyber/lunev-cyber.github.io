@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Student Projects | Быкасов Владислав Дмитриевич</title>
+    <link>https://lunev-cyber.github.io/en/tags/student-projects/</link>
+      <atom:link href="https://lunev-cyber.github.io/en/tags/student-projects/index.xml" rel="self" type="application/rss+xml" />
+    <description>Student Projects</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 02 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lunev-cyber.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Student Projects</title>
+      <link>https://lunev-cyber.github.io/en/tags/student-projects/</link>
+    </image>
+    
+    <item>
+      <title>Second Week — First Tests and Project Work</title>
+      <link>https://lunev-cyber.github.io/en/post/02/</link>
+      <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://lunev-cyber.github.io/en/post/02/</guid>
+      <description>&lt;h2 id=&#34;-week-of-june-2-to-june-8&#34;&gt;📌 Week of June 2 to June 8&lt;/h2&gt;
+&lt;p&gt;The week turned out to be eventful. We took a test in mathematical analysis — the tasks were more challenging than I expected, but the experience was valuable.&lt;/p&gt;
+&lt;p&gt;In business process practice, we started working on a group project: modeling the business process of an online store. We created a BPMN diagram — it turned out to be more interesting than it sounded.&lt;/p&gt;
+&lt;p&gt;I also began exploring SQL — the database homework really made me work hard.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
